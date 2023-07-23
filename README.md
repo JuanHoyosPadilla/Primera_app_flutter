@@ -1,7 +1,7 @@
 # app_prueba
 
 A new Flutter project.
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/50926052/255419857-e5d42630-7f2e-4b58-adb8-6426ebedcf02.mp4" width="640" height="480" autoplay muted loop/>
+<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/50926052/255419857-e5d42630-7f2e-4b58-adb8-6426ebedcf02.mp4"  autoplay muted loop/>
 
 ## Getting Started
 
