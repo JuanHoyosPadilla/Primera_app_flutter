@@ -2,9 +2,7 @@
 
 A new Flutter project.
 <video src="https://github.com/JuanHoyosPadilla/Primera_app_flutter/assets/50926052/e5d42630-7f2e-4b58-adb8-6426ebedcf02
-">
-  Tu navegador no admite el elemento <code>video</code>.
-</video>
+"/>
 
 ## Getting Started
 
