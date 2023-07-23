@@ -1,7 +1,7 @@
 # app_prueba
 
 A new Flutter project.
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/50926052/255419857-e5d42630-7f2e-4b58-adb8-6426ebedcf02.mp4"/>
+<video src="https://github.com/JuanHoyosPadilla/Primera_app_flutter/issues/1#issue-1817216385"/>
 
 ## Getting Started
 
