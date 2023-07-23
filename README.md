@@ -1,15 +1,10 @@
 # app_prueba
 
 A new Flutter project.
- <video width="640" height="360" controls>
-        <source src="https://github.com/JuanHoyosPadilla/Primera_app_flutter/assets/50926052/e5d42630-7f2e-4b58-adb8-6426ebedcf02
-" type="video/mp4">
-        <!-- Agrega más etiquetas <source> para diferentes formatos de video -->
-        <!-- <source src="ruta_del_video.webm" type="video/webm"> -->
-        <!-- <source src="ruta_del_video.ogv" type="video/ogg"> -->
-        Tu navegador no soporta el elemento de video.
-    </video>
-
+<video src="https://github.com/JuanHoyosPadilla/Primera_app_flutter/assets/50926052/e5d42630-7f2e-4b58-adb8-6426ebedcf02
+" autoplay>
+  Tu navegador no admite el elemento <code>video</code>.
+</video>
 
 ## Getting Started
 
