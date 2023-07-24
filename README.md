@@ -1,6 +1,7 @@
 # app_prueba
 
 A new Flutter project.
+# Video de muestra
 https://github.com/JuanHoyosPadilla/Primera_app_flutter/assets/50926052/33eae408-0678-4415-9cb8-c3f2ebae2f75
 
 
